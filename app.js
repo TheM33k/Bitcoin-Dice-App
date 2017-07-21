@@ -10,7 +10,7 @@ var config = {
   // - For your faucet to work, you must register your site at Recaptcha
   // - https://www.google.com/recaptcha/intro/index.html
   recaptcha_sitekey: '6Le33CkUAAAAAK48jnLO9hngF9XFftkolaliprMp',  // <----- EDIT ME!
-  redirect_uri: 'https://Bitcoin-Dice-App.github.io',
+  redirect_uri: 'https://TheM33k.github.io/bitcoin-dice-app',
   mp_browser_uri: 'https://www.moneypot.com',
   mp_api_uri: 'https://api.moneypot.com',
   chat_uri: '//socket.moneypot.com',
